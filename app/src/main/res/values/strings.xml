@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery View</string>
+
+    <string name="albums">Albums</string>
+    <string name="all_photo">All Photo</string>
+    <string name="edit">Edit</string>
+</resources>
